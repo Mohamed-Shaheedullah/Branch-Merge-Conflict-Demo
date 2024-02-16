@@ -1,4 +1,5 @@
-print("Hello World!")
-
 def helloworld():
-    pass
+    print("Hello World!")
+
+
+helloworld()
