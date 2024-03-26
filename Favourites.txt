@@ -5,6 +5,9 @@ Food
 - Chocolate
 - Carrots
 - Chorizo
+- Calzone
+- Lindt Choco
+- Etc.
 
 Drinks
 - Espresso
