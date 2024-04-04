@@ -6,3 +6,7 @@ Food
 - Burger
 Chicken Curry
 Spaghetti
+Drinks
+Mineral water
+Pepsi Max
+Sherbert
