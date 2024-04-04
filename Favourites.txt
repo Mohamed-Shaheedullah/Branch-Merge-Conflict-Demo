@@ -4,3 +4,5 @@ Food
 - Donuts
 - Chocolate
 - Burger
+Chicken Curry
+Spaghetti
