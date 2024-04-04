@@ -4,3 +4,7 @@ Food
 - Donuts
 - Chocolate
 - Burger
+Drinks
+Mineral water
+Pepsi Max
+Sherbert
